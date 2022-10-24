@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Green Leaf Guest HouseOpens in new window",
+    "details": "Set in Sreemangal with Sreemangal nearby, Green Leaf Guest House offers accommodation with free WiFi and free private parking.",
+    "total_revew": "155",
+    "fare": {
+      "singl_person_fare": "2500",
+      "cupol_room_fare": "3500",
+      "full_famely_fare": "8500"
+    },
+    "location": "Sreemangal",
+    "hotel_image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297836338.jpg?k=3fd20f3b6c7f49a0412a8aa718d5fd9ee89d3f2eaf689918b3c41629ff95a285&o=&hp=1"
+  },
+  {
+    "id": 2,
+    "name": "Sreemangal Inn Hotel & Restaurant",
+    "details": "Situated in Sreemangal, 2.9 km from Āsidun, Sreemangal Inn Hotel & Restaurant features accommodation with a restaurant, free private parking and a shared lounge.",
+    "total_revew": "250",
+    "fare": {
+      "singl_person_fare": "2800",
+      "cupol_room_fare": "3800",
+      "full_famely_fare": "7500"
+    },
+    "location": "Sreemangal",
+    "hotel_image": "https://cf.bstatic.com/xdata/images/hotel/square600/156548625.webp?k=eeef8e6ef177ee3d6dbef84f1870e421c9e4756c1de69052d69e51e710eb9bb4&o=&s=1"
+  },
+  {
+    "id": 3,
+    "name": "HOTEL MOHSIN PLAZAOpens in new window",
+    "details": "Situated in Sreemangal, 2.9 km from Āsidun, Sreemangal Inn Hotel & Restaurant features accommodation with a restaurant, free private parking and a shared lounge.",
+    "total_revew": "250",
+    "fare": {
+      "singl_person_fare": "1800",
+      "cupol_room_fare": "2800",
+      "full_famely_fare": "5500"
+    },
+    "location": "Sreemangal",
+    "hotel_image": "https://cf.bstatic.com/xdata/images/hotel/square600/333117764.webp?k=502f367cc3d08a8dc38782a917fe25b076f85f6f4f6d8857bb41d5eaa5fc718e&o=&s=1"
+  },
+  {
+    "id": 4,
+    "name": "Sreemangal Inn Hotel & Restaurant",
+    "details": "Situated in Sreemangal, 2.9 km from Āsidun, Sreemangal Inn Hotel & Restaurant features accommodation with a restaurant, free private parking and a shared lounge.",
+    "total_revew": "250",
+    "fare": {
+      "singl_person_fare": "2800",
+      "cupol_room_fare": "3800",
+      "full_famely_fare": "7500"
+    },
+    "location": "Sreemangal",
+    "hotel_image": "https://cf.bstatic.com/xdata/images/hotel/square600/156548625.webp?k=eeef8e6ef177ee3d6dbef84f1870e421c9e4756c1de69052d69e51e710eb9bb4&o=&s=1"
+  },
+  {
+    "id": 5,
+    "name": "Sundarban Inn Hotel & Restaurant",
+    "details": "Situated in Sundarban, 2.9 km from Āsidun, Sundarban Inn Hotel & Restaurant features accommodation with a restaurant, free private parking and a shared lounge.",
+    "total_revew": "350",
+    "fare": {
+      "singl_person_fare": "3800",
+      "cupol_room_fare": "3500",
+      "full_famely_fare": "7200"
+    },
+    "location": "Sundorban",
+    "hotel_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fc/b1/7c/hotel-royal-international.jpg?w=500&h=500&s=1"
+  },
+  {
+    "id": 6,
+    "name": "Sajek Velli",
+    "details": "Situated in Sajek, 2.9 km from Āsidun, Sajek veli features accommodation with a restaurant, free private parking and a shared lounge.",
+    "total_revew": "500",
+    "fare": {
+      "singl_person_fare": "4800",
+      "cupol_room_fare": "5500",
+      "full_famely_fare": "9200"
+    },
+    "location": "Sajek",
+    "hotel_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e5/8b/f2/20180120-205817-largejpg.jpg?w=1400&h=-1&s=1"
+  }
+]

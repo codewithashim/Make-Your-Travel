@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "place_name": "Sundorbon",
+    "total_torist_place":8,
+    "place_cover_img": "https://i.ibb.co/YN8NhFD/sundorbon.png",
+    "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West",
+    "place_image": "https://res.cloudinary.com/roundglass/image/upload/w_1104,h_736,c_fill/q_auto:best,f_auto/v1596111471/roundglass/sustain/sundarbans-bengal-tiger-swimming-soumyajit-nandy_wnyvhr.jpg"
+  },
+  {
+    "id": 2,
+    "place_name": "Sreemangal",
+    "total_torist_place":30,
+    "place_cover_img": "https://i.ibb.co/WtDL7dC/Sajek.png",
+    "details": "Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal.",
+    "place_image": "https://images6.fanpop.com/image/photos/41700000/Sreemangal-Bangladesh-bangladesh-41724984-500-383.jpg"
+  },
+  {
+    "id": 3,
+    "place_name": "Sajek",
+    "total_torist_place":36,
+    "place_cover_img": "https://i.ibb.co/kywmHDB/Sreemongol.png",
+    "details": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati",
+    "place_image": "https://gogoairfresh.com/wp-content/uploads/2021/01/sajek-tour-guide.jpg"
+  }
+]
